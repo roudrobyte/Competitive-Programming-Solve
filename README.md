@@ -32,3 +32,15 @@ Given a string `s`, return `true` if it is a palindrome, or `false` otherwise.
 
 * `1 <= s.length <= 2 * 10^5`
 * `s` consists only of printable ASCII characters.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/roudrobyte/125.-Valid-Palindrome/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/roudrobyte/125.-Valid-Palindrome/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
