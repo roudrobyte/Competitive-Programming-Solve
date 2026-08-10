@@ -6,21 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (1)
+- [greedy](#greedy) (2)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/231/A%20-%20Team/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 
 ### strings
