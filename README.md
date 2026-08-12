@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 10 | 7 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (4)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 
 ---
 
@@ -39,6 +39,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
@@ -69,6 +70,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
