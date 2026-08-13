@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (8)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
 
@@ -34,6 +34,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/479/A%20-%20Expression/solution.java) |
 
 ### greedy
 
@@ -65,6 +66,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/479/A%20-%20Expression/solution.java) |
 
 ### sortings
 
