@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 7 |
+| 14 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -53,6 +53,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/133/A%20-%20HQ9%2B/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
