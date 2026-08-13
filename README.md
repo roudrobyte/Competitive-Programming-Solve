@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 12 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (5)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (6)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
@@ -27,6 +27,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 
 ### brute force
 
@@ -40,6 +41,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
@@ -51,6 +53,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
