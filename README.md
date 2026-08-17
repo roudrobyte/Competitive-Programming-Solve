@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 17 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (8)
@@ -28,6 +29,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/158/B%20-%20Taxi/solution.java) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### brute force
 
