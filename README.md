@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 8 |
+| 19 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (8)
@@ -36,6 +36,7 @@
 |---|---------|------------|----------|
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
+| 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | Unrated | [Java 8](https://github.com/roudrobyte/Competitive-Programming-Solve/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.java) |
 
 ### brute force
 
